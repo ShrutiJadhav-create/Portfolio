@@ -21,11 +21,4 @@ A modern, responsive portfolio website built with React, Tailwind CSS, and Frame
 - React Icons
 - React Scroll
 
-## Setup
-
-1. Clone the repository
-   ```bash
-   git clone https://github.com/yourusername/portfolio.git
-   cd portfolio
-
 ##live link(https://portfolio-alpha-three-48.vercel.app/)   
